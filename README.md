@@ -4,3 +4,5 @@ Technologies Used:
 HTML5
 CSS3
 JavaScript
+
+It's simple.
